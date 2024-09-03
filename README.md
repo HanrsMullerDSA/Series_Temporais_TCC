@@ -4,13 +4,13 @@ Este repositório contém o código desenvolvido para o Trabalho de Conclusão d
 
 ## Descrição do Projeto
 
-O projeto visa modelar e prever as despesas assistenciais de uma operadora de saúde suplementar utilizando técnicas de séries temporais, com foco no modelo SARIMA. O objetivo é fornecer uma ferramenta estratégica para a gestão financeira e otimização de recursos, especialmente em contextos de alta volatilidade, como o observado durante a pandemia de COVID-19.
+O projeto visa modelar e prever as despesas assistenciais de uma operadora de saúde suplementar utilizando técnicas de séries temporais, com foco no modelo SARIMA, implementado na linguagem de programação **R**. O objetivo é fornecer uma ferramenta estratégica para a gestão financeira e otimização de recursos, especialmente em contextos de alta volatilidade, como o observado durante a pandemia de COVID-19.
 
 ## Estrutura do Repositório
 
-- **TCC v2_ANÁLISE EXPLORATÓRIA.R**: Script para a análise exploratória dos dados, onde são geradas estatísticas descritivas e visualizações para identificar padrões e tendências.
-- **TCC v2_DATA WRANGLING.R**: Script de preparação dos dados, incluindo limpeza, transformação e organização para análise subsequente.
-- **TCC v2_MODELO SARIMA.R**: Script de modelagem de séries temporais utilizando SARIMA, incluindo validação do modelo e geração de previsões.
+- **TCC v2_ANÁLISE EXPLORATÓRIA.R**: Script em R para a análise exploratória dos dados, onde são geradas estatísticas descritivas e visualizações para identificar padrões e tendências.
+- **TCC v2_DATA WRANGLING.R**: Script em R de preparação dos dados, incluindo limpeza, transformação e organização para análise subsequente.
+- **TCC v2_MODELO SARIMA.R**: Script em R de modelagem de séries temporais utilizando SARIMA, incluindo validação do modelo e geração de previsões.
 
 ## Dados Utilizados
 
@@ -24,7 +24,7 @@ Os dados utilizados para as análises e modelagem foram obtidos do site da Agên
 
 ## Resultados
 
-Os resultados demonstraram que o modelo SARIMA foi capaz de capturar de forma eficaz as tendências e sazonalidades nos dados de despesa assistencial, proporcionando previsões precisas e úteis para a tomada de decisões.
+Os resultados demonstraram que o modelo SARIMA, implementado em **R**, foi capaz de capturar de forma eficaz as tendências e sazonalidades nos dados de despesa assistencial, proporcionando previsões precisas e úteis para a tomada de decisões.
 
 ## Licença
 
