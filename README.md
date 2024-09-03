@@ -26,6 +26,10 @@ Os dados utilizados para as análises e modelagem foram obtidos do site da Agên
 
 Os resultados demonstraram que o modelo SARIMA foi capaz de capturar de forma eficaz as tendências e sazonalidades nos dados de despesa assistencial, proporcionando previsões precisas e úteis para a tomada de decisões.
 
+## Licença
+
+Este projeto está sob a licença [MIT](LICENSE). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ## Contato
 
 Para mais informações, entre em contato através do [LinkedIn](https://www.linkedin.com/in/hanrsmuller/) ou por e-mail: hanrs.silveira@gmail.com.
